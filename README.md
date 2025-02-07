@@ -1,7 +1,7 @@
 # Weather-App
 Overview
 
-This is a simple weather search application that allows users to search for weather information by city name or use their current location to fetch weather details. The project is intended for beginners to learn about API integration, fetching data asynchronously, and handling responses.
+This is a simple weather search application that allows users to search for weather information by city name or use their current location to fetch weather details. The project demonstrates how to integrate an external API, fetch data asynchronously, and handle responses efficiently.
 
 Features
 
