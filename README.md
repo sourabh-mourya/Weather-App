@@ -10,7 +10,7 @@ Search weather by entering a city name
 Fetch weather details using the user's current location
 
 Display temperature, wind speed, humidity, and pressure
-
+ 
 Uses the OpenWeather API
 
 Simple UI with responsive design
