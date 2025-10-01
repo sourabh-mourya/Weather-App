@@ -4,7 +4,7 @@
 **Project Title:** City Search
 **Tagline:** A static website that allows users to search for cities and display their corresponding weather conditions.
 
-**📖 Description**
+**📖 Description** 
 ----------------
 
 City Search is a simple yet powerful tool that enables users to search for cities and instantly view their current weather conditions. Built using HTML, CSS, and JavaScript, this static website is designed to be fast, efficient, and easy to use. With a user-friendly interface and a reliable API connection, City Search is the perfect solution for anyone looking to stay up-to-date with the latest weather forecasts.
